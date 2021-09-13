@@ -22,7 +22,7 @@ public class Game {
         int userNumber = scanner.nextInt();
         if(userNumber == number) 
         {
-            System.out.println("Ты выиграл!");
+            System.out.println("Ты выиграл!!!");
         }
         else
         {
